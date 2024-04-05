@@ -1,4 +1,5 @@
 # Bookbot
 
-An application that does static analysis on text file
-specially created for Novels in mind.
+A application that does static analysis on text files
+specially created for books in mind to quickly pull information 
+and create reports.
